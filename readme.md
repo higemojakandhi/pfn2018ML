@@ -1,4 +1,15 @@
 # README
+
+## Release Date
+2018/07/23
+It is uploaded after the deadline. 
+
+### before
+![before](https://user-images.githubusercontent.com/11141442/43048506-bd14c496-8e23-11e8-9503-e53fb4888fcc.png)
+
+### after adding adversal input
+![after](https://user-images.githubusercontent.com/11141442/43048519-e954fd00-8e23-11e8-8b56-c7220ea896a8.png)
+
 ## How to run source files
 ### Problem1
 Please Check **Array.py**
